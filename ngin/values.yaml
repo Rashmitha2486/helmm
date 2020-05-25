@@ -32,3 +32,6 @@ podAnnotations: {}
 resources: {}
 
 nodeSelector: {}
+secrets:
+  password: domain_password
+  username: domain_username
